@@ -1,5 +1,6 @@
 ---
 title: Android 开发问题集
+date: 2017-01-11 12:00
 ---
 ## Fragment
 'IllegalStateException: Can not perform this action after onSaveInstanceState'
