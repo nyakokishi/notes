@@ -15,9 +15,6 @@ social:
 # Content
 fancybox: true # set to true if you want to use it
 
-# MathJax
-mathjax: true
-
 duoshuo: #duoshuo_shortname
 disqus: #disqus _shortname
 google_analytics: #Google Analytics Tracking Code

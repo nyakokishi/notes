@@ -111,25 +111,3 @@ html
         e.src='//www.google-analytics.com/analytics.js';
         r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
         ga('create','#{theme.google_analytics}');ga('send','pageview');
-    
-    if theme.mathjax
-      script(src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.6.1/MathJax.js")
-      script.
-          MathJax.Hub.Config({
-            menuSettings: {
-              zoom: "None"
-            },
-            showMathMenu: false,
-            jax: ["input/TeX","output/CommonHTML"],
-            extensions: ["tex2jax.js"],
-            TeX: {
-              extensions: ["AMSmath.js","AMSsymbols.js"],
-              equationNumbers: {
-                autoNumber: "AMS"
-              }
-            },
-            tex2jax: {
-              inlineMath: [["\\(", "\\)"]],
-              displayMath: [["\\[", "\\]"]]
-            }
-          });
