@@ -3,6 +3,7 @@ title: 普微 cp2
 date: 2018/03/04 23:45
 mathjax: true
 tags: ['math']
+category: ['《普林斯顿微积分读本》']
 ---
 - 弧度、角度
 - 实轴上的三角函数

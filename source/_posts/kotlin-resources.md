@@ -1,6 +1,7 @@
 ---
 title: kotlin 资源
 date: 2017/03/31 23:00
+tags: ['kotlin']
 ---
 ## 教程
 [kotlin 官方教程](http://kotlinlang.org/docs/tutorials/)
