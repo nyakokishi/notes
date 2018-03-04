@@ -1,6 +1,7 @@
 ---
 title: 普微 cp1
 date: 2018/03/03 23:26
+mathjax: true
 tags: ['math']
 ---
 - 函数，定义域、上域、值域和垂直校验
