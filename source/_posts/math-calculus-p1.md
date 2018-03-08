@@ -2,6 +2,7 @@
 title: latex 练习
 date: 2018/03/06 03:32
 mathjax: true
+tags: ['latex', 'math']
 ---
 $$
 \lim\limits_{x \to -\infty}{\frac{\sqrt{4x^6 + 8}}{2x^3 + 6x+ 1}}
