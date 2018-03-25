@@ -1,6 +1,7 @@
 ---
 title: CLRS 笔记
 date: 2016-11-01 12:00
+tags: ['Algorithms']
 ---
 CLRS 笔记
 <!--more-->
