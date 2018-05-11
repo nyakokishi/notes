@@ -36,7 +36,8 @@ article pre code {
 article .highlight pre {
   border: none;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  white-space: normal; }
 
 article .highlight table {
   margin: 0;
